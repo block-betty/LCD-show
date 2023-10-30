@@ -4,45 +4,6 @@ https://github.com/lcdwiki/LCD-show-ubuntu
 ### Install drivers in the Kali system
 https://github.com/lcdwiki/LCD-show-kali
 
-### Install drivers in the RetroPie system
-https://github.com/lcdwiki/LCD-show-retropie
-
-
-
-Install drivers in the Raspbian system<br>
-====================================================
-Update: <br>
-  v2.1-20191106<br>
-  Update to support MHS35B<br>
-Update: <br>
-  v2.0-20190704<br>
-  Update to support rotate the display direction<br>
-Update: <br>
-  v1.9-20181204<br>
-  Update to support MHS40 & MHS32<br>
-Update: <br>
-  v1.8-20180907<br>
-  Update to support MHS35<br>
-Update: <br>
-  v1.7-20180320<br>
-  Update to support Raspbian Version: March 2018(Release date:2018-03-13)<br>
-Update: <br>
-  v1.6-20170824<br>
-  Update xserver to support Raspbian-2017-08-16<br>
-Update: <br>
-  v1.5-20170706<br>
-  Update to support Raspbian-2017-07-05, Raspbian-2017-06-21<br>
-Update: <br>
-  v1.3-20170612<br>
-  fixed to support Raspbian-2017-03-02, Raspbian-2017-04-10<br>
-Update: <br>
-  v1.2-20170302<br>
-  Add xserver-xorg-input-evdev_1%3a2.10.3-1_armhf.deb to support Raspbian-2017-03-02<br>
-Update: <br>
-  v1.1-20160815<br><br>
-
-
-# How to install the LCD driver of Raspberry Pi
   
 1.)Step1, Install Raspbian official mirror <br>
 ====================================================
